@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="drl" approved="true" type="Drools" />
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="properites" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
-      <mapping ext="drl" type="PLAIN_TEXT" />
       <mapping pattern="01_refactor_strategy_table.sql" type="SQL" />
     </extensionMap>
   </component>
