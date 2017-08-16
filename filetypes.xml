@@ -5,6 +5,7 @@
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
