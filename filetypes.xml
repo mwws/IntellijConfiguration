@@ -15,6 +15,7 @@
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="drl" type="PLAIN_TEXT" />
       <mapping pattern="01_refactor_strategy_table.sql" type="SQL" />
+      <mapping pattern="StrategyFeedbackMapper" type="XML" />
     </extensionMap>
   </component>
 </application>
