@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File '.../app/facade/src/main/scala/com/datacloud/aldebaran/model/entity/GraphDetail.scala - [facade]'" />
+    <option name="defaultScopeName" value="File '.../app/facade/src/main/scala/com/datacloud/aldebaran/model/entity/GraphDetail.scala - [facade]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File '.../app/facade/src/main/scala/com/datacloud/aldebaran/model/entity/GraphDetail.scala - [facade]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
