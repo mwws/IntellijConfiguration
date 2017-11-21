@@ -4,6 +4,7 @@
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
+      <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
