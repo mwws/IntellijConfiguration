@@ -6,6 +6,7 @@
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
