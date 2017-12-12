@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
-      <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="StrategyRCGroupMappingMapper.xml" type="PLAIN_TEXT" />
+      <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
+      <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="结果汇总脚本" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
@@ -18,10 +18,10 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="properites" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
-      <mapping ext="drl" type="PLAIN_TEXT" />
       <mapping ext="xnl" type="PLAIN_TEXT" />
       <mapping pattern="01_refactor_strategy_table.sql" type="SQL" />
       <mapping pattern="StrategyFeedbackMapper" type="XML" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
