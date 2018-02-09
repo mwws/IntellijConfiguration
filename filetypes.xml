@@ -7,6 +7,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="StrategyRCGroupMappingMapper.xml" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
+      <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="结果汇总脚本" type="PLAIN_TEXT" />
