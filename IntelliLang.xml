@@ -6,7 +6,7 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compile").withParameters("java.lang.String", "int").definedInClass("java.util.regex.Pattern"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String", "java.lang.CharSequence").definedInClass("java.util.regex.Pattern"))]]></place>
     </injection>
-    <injection language="GenericSQL" injector-id="xml">
+    <injection language="MySQL" injector-id="xml">
       <display-name>mapper</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("mapper")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
     </injection>
