@@ -10,7 +10,6 @@
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -25,9 +24,13 @@
       <mask>*。xm</mask>
       <mask>*。x</mask>
       <mask>*。</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
