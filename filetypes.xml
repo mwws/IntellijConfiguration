@@ -21,6 +21,7 @@
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="xnl" type="PLAIN_TEXT" />
       <mapping pattern="01_refactor_strategy_table.sql" type="SQL" />
+      <mapping pattern="05_remove_deprecated_table" type="SQL" />
       <mapping pattern="02_add_json_node_history" type="SQL" />
       <mapping pattern="StrategyFeedbackMapper" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
