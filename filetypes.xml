@@ -6,6 +6,7 @@
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
+      <mapping pattern="trx1" type="PLAIN_TEXT" />
       <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
       <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
