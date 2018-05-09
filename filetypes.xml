@@ -7,6 +7,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern="trx1" type="PLAIN_TEXT" />
+      <mapping pattern="07_change_table_index_of_strategy_def.sql" type="PLAIN_TEXT" />
       <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
       <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
