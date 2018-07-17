@@ -3,17 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*。</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>*.s'q</mask>
       <mask>*.s'q'l</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
-      <mask>*.s</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>pom。x</mask>
@@ -35,6 +31,10 @@
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
