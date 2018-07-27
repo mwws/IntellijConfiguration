@@ -5,14 +5,15 @@
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
+      <mapping pattern="03_enlarge_block_path_size" type="PLAIN_TEXT" />
       <mapping pattern="trx2" type="PLAIN_TEXT" />
       <mapping pattern="trx1" type="PLAIN_TEXT" />
       <mapping pattern="StrategyRCGroupMappingMapper.xml" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_geerong" type="PLAIN_TEXT" />
       <mapping pattern="07_change_table_index_of_strategy_def.sql" type="PLAIN_TEXT" />
       <mapping pattern="trx3" type="PLAIN_TEXT" />
       <mapping pattern="req1" type="PLAIN_TEXT" />
-      <mapping pattern="03_enlarge_block_path_size" type="PLAIN_TEXT" />
+      <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
       <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
