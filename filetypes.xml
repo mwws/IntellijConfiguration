@@ -17,6 +17,7 @@
       <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
+      <mapping pattern="01_add_execution_result_table" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="结果汇总脚本" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
