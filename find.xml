@@ -7,12 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.s'q'l</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>pom。x</mask>
       <mask>pom。</mask>
@@ -32,13 +28,17 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
       <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.saa</mask>
+      <mask>*.sa</mask>
+      <mask>*.sal</mask>
+      <mask>*.sala</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
