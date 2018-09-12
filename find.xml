@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>pom。x</mask>
@@ -28,15 +28,15 @@
       <mask>*.po</mask>
       <mask>*.pom</mask>
       <mask>*.</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
       <mask>*.scal</mask>
-      <mask>*.scala</mask>
       <mask>*.sala</mask>
       <mask>*.sal</mask>
       <mask>*.sa</mask>
       <mask>*.s</mask>
       <mask>*</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
