@@ -1,0 +1,709 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:athena-parent" />
+                <option name="name" value="Athena - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:athena-app" />
+                <option name="name" value="Athena - Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:athena-facade" />
+                <option name="name" value="Athena - Facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:athena-dubbo-facade" />
+                <option name="name" value="Athena - Facade Dubbo API" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:athena-rest-facade" />
+                <option name="name" value="Athena - Facade RESTful API" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:service" />
+                <option name="name" value="Athena - Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:test" />
+                <option name="name" value="Athena - Test Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.athena:web" />
+                <option name="name" value="Athena - Web Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius" />
+                <option name="name" value="Crius - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-web" />
+                <option name="name" value="Crius - API Gateway Adapter" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-merchant" />
+                <option name="name" value="Crius - API Gateway Adapter for Merchant" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-app" />
+                <option name="name" value="Crius - App" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-common" />
+                <option name="name" value="Crius - Common utilities and services" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-sdk" />
+                <option name="name" value="Crius - SDK Gateway for CIB" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.fincloud:crius-client" />
+                <option name="name" value="crius-client" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:dionysus" />
+                <option name="name" value="Dionysus - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:test" />
+                <option name="name" value="Dionysus - Acceptance Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:app-parent" />
+                <option name="name" value="Dionysus - App Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:util" />
+                <option name="name" value="Dionysus - Common Utilities" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus.ext:api" />
+                <option name="name" value="Dionysus - Extension API" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus.ext:cib" />
+                <option name="name" value="Dionysus - Extension CIB" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus.ext:fadada" />
+                <option name="name" value="Dionysus - Extension Fadada" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus.ext:geerong" />
+                <option name="name" value="Dionysus - Extension Geerong" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus.ext:extension" />
+                <option name="name" value="Dionysus - Extension Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:facade" />
+                <option name="name" value="Dionysus - Facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:service" />
+                <option name="name" value="Dionysus - Service APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.dionysus:web" />
+                <option name="name" value="Dionysus - Web Restful APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:hades" />
+                <option name="name" value="Hades - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:hades-facade" />
+                <option name="name" value="Hades - Dubbo APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:test" />
+                <option name="name" value="Hades - Integration Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:service" />
+                <option name="name" value="Hades - Service Implementation" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:web" />
+                <option name="name" value="Hades - Web Restful APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:framework-core" />
+                <option name="name" value="framework-core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hades:hades-client" />
+                <option name="name" value="hades-client" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:janus-parent" />
+                <option name="name" value="Janus - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:mobile-api" />
+                <option name="name" value="Janus - API for Mobile" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:mobile-app-api" />
+                <option name="name" value="Janus - API for Mobile Native application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:app-parent" />
+                <option name="name" value="Janus - Application Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:api-parent" />
+                <option name="name" value="Janus - REST API Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.janus:web" />
+                <option name="name" value="Janus - Web Application for Mobile" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.metis:metis" />
+                <option name="name" value="Metis - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.metis:test" />
+                <option name="name" value="Metis - Acceptance Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.metis:metis-facade" />
+                <option name="name" value="Metis - Facade Dubbo APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.metis:service" />
+                <option name="name" value="Metis - Service APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.metis:web" />
+                <option name="name" value="Metis - Web Restful APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.minos:minos-parent" />
+                <option name="name" value="Minos - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.minos:test" />
+                <option name="name" value="Minos - Acceptance Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.minos:minos-facade" />
+                <option name="name" value="Minos - Facade Dubbo APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.minos:minos-service" />
+                <option name="name" value="Minos - Service APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.minos:minos-web" />
+                <option name="name" value="Minos - Web Restful APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.pandora:pandora" />
+                <option name="name" value="Pandora - Schedule Management" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.pandora:facade" />
+                <option name="name" value="Pandora - RPC APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.pandora:service" />
+                <option name="name" value="Pandora - Service Utilities" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.pandora:web" />
+                <option name="name" value="Pandora - Task Management" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:talos-parent" />
+                <option name="name" value="Talos - Parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:facade" />
+                <option name="name" value="Talos - Facade Dubbo APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:talos-job" />
+                <option name="name" value="Talos - Jobs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:talos-service" />
+                <option name="name" value="Talos - Service APIs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:talos-web" />
+                <option name="name" value="Talos - Web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.talos:talos-app" />
+                <option name="name" value="talos-app" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.poseidon:proteus-parent" />
+                <option name="name" value="Tenant Management Web" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.poseidon:proteus-app" />
+                <option name="name" value="Proteus - Application Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.poseidon:tenant-mgmt-web" />
+                <option name="name" value="Proteus - Tenant Management Web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.venus:venus-parent" />
+                <option name="name" value="Venus - Tenant API Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.geerong.api:tenant-api" />
+                <option name="name" value="Tenant Integration API" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.venus:app-parent" />
+                <option name="name" value="Venus - Application Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.venus:test" />
+                <option name="name" value="Venus - Integration Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.venus:venus-web" />
+                <option name="name" value="Venus - Tenant Integration Web Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.ain:ain" />
+                <option name="name" value="ain" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.ain:ain-execution" />
+                <option name="name" value="ain-execution" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.ain:ain-facade" />
+                <option name="name" value="ain-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:apollo" />
+                <option name="name" value="apollo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:apollo-facade" />
+                <option name="name" value="apollo-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:dal" />
+                <option name="name" value="dal" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:model" />
+                <option name="name" value="model" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:test" />
+                <option name="name" value="test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.apollo:web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="aquarius:aquarius" />
+                <option name="name" value="aquarius-server" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.aries:aries" />
+                <option name="name" value="aries" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.aries:aries-facade" />
+                <option name="name" value="aries-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.aries:aries-service" />
+                <option name="name" value="aries-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.aries:aries-test" />
+                <option name="name" value="aries-test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.aries:aries-web" />
+                <option name="name" value="aries-web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.charon:charon" />
+                <option name="name" value="charon" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.charon:charon-facade" />
+                <option name="name" value="charon-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.charon:charon-service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.charon:charon-web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:cybertron" />
+                <option name="name" value="cybertron" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:cybertron-facade" />
+                <option name="name" value="cybertron-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:cybertron-protocol" />
+                <option name="name" value="cybertron-protocol" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:test" />
+                <option name="name" value="test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.cybertron:web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.demeter:demeter" />
+                <option name="name" value="demeter" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.demeter:web" />
+                <option name="name" value="Demeter - Web Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.demeter:demeter-facade" />
+                <option name="name" value="demeter-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.demeter:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.demeter:test" />
+                <option name="name" value="test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="gaia:gaia" />
+                <option name="name" value="gaia-server" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="gemini:gemini" />
+                <option name="name" value="gemini-server" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hera:hera" />
+                <option name="name" value="hera" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hera:app" />
+                <option name="name" value="HERA - Application Parent" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hera:web" />
+                <option name="name" value="HERA - Web Layer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hera:facade" />
+                <option name="name" value="facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hermes:hermes" />
+                <option name="name" value="hermes" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hermes:hermes-facade" />
+                <option name="name" value="hermes-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hermes:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hermes:test" />
+                <option name="name" value="test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.hermes:web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.moon:moon" />
+                <option name="name" value="moon" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.moon:common" />
+                <option name="name" value="common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.moon:moon-dubbo-facade" />
+                <option name="name" value="moon-dubbo-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.moon:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.moon:web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.nutshell:nutshell" />
+                <option name="name" value="nutshell" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.nutshell:nutshell-facade" />
+                <option name="name" value="nutshell-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.nutshell:nutshell-service" />
+                <option name="name" value="nutshell-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.nutshell:nutshell-test" />
+                <option name="name" value="nutshell-test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.nutshell:nutshell-web" />
+                <option name="name" value="nutshell-web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-parent" />
+                <option name="name" value="optimus-parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-dubbo-facade" />
+                <option name="name" value="optimus-dubbo-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-facade" />
+                <option name="name" value="optimus-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-rest-facade" />
+                <option name="name" value="optimus-rest-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-service" />
+                <option name="name" value="optimus-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.optimus:optimus-web" />
+                <option name="name" value="optimus-web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris" />
+                <option name="name" value="polaris" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:antifraud-service" />
+                <option name="name" value="antifraud-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris-common" />
+                <option name="name" value="polaris-common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris-facade" />
+                <option name="name" value="polaris-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris-protocol" />
+                <option name="name" value="polaris-protocol" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris-service" />
+                <option name="name" value="polaris-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:polaris-web" />
+                <option name="name" value="polaris-web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:risk-service" />
+                <option name="name" value="risk-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.datacloud.polaris:test" />
+                <option name="name" value="test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.rhea:rhea" />
+                <option name="name" value="rhea" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.rhea:rhea-facade" />
+                <option name="name" value="rhea-facade" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.rhea:service" />
+                <option name="name" value="service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.fincloud.rhea:web" />
+                <option name="name" value="web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
