@@ -1,0 +1,15 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1540181017298" />
+          <option name="name" value="Default (Template) Project" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/FinCloud.xml" />
+          <option name="selectedJavaProfile" value="FinCloud" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
