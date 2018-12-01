@@ -12,7 +12,6 @@
       <mask>pom</mask>
       <mask>po</mask>
       <mask>p</mask>
-      <mask>*.ja</mask>
       <mask>*.cala</mask>
       <mask>*.saa</mask>
       <mask>*.p</mask>
@@ -28,12 +27,13 @@
       <mask>*.scala</mask>
       <mask>*.x</mask>
       <mask>*。</mask>
-      <mask>*.java</mask>
       <mask>.</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
