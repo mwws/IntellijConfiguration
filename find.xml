@@ -28,12 +28,12 @@
       <mask>*.x</mask>
       <mask>*。</mask>
       <mask>.</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
