@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.cala</mask>
-      <mask>*.saa</mask>
-      <mask>*.p</mask>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
       <mask>*.scal</mask>
       <mask>*.sala</mask>
       <mask>*.sal</mask>
@@ -22,12 +17,10 @@
       <mask>*.x</mask>
       <mask>.</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.s</mask>
       <mask>*.s'q</mask>
       <mask>*.sql</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*。</mask>
       <mask>*。j</mask>
       <mask>*。ja</mask>
@@ -36,6 +29,13 @@
       <mask>*/java</mask>
       <mask>*java</mask>
       <mask>*</mask>
+      <mask>*。x</mask>
+      <mask>*。x'm</mask>
+      <mask>*。x'm'l</mask>
+      <mask>*。xml</mask>
+      <mask>*xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
