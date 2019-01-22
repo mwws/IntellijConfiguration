@@ -4,9 +4,9 @@
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
       <mapping pattern="01_create_table_and_init.sql" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="polaris-feedback-event" type="PLAIN_TEXT" />
       <mapping pattern="enunciate" type="PLAIN_TEXT" />
-      <mapping pattern="03_enlarge_block_path_size" type="PLAIN_TEXT" />
+      <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
       <mapping pattern="trx2" type="PLAIN_TEXT" />
       <mapping pattern="trx1" type="PLAIN_TEXT" />
       <mapping pattern="StrategyRCGroupMappingMapper.xml" type="PLAIN_TEXT" />
@@ -14,24 +14,25 @@
       <mapping pattern="07_change_table_index_of_strategy_def.sql" type="PLAIN_TEXT" />
       <mapping pattern="trx3" type="PLAIN_TEXT" />
       <mapping pattern="req1" type="PLAIN_TEXT" />
-      <mapping pattern="02_add_champion_field" type="PLAIN_TEXT" />
+      <mapping pattern="03_enlarge_block_path_size" type="PLAIN_TEXT" />
       <mapping pattern="01_support_shadow_strategy.sql" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern="01_add_execution_result_table" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="结果汇总脚本" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="properites" type="PLAIN_TEXT" />
-      <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="xnl" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="properites" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="01_refactor_strategy_table.sql" type="SQL" />
       <mapping pattern="05_remove_deprecated_table" type="SQL" />
       <mapping pattern="02_add_json_node_history" type="SQL" />
