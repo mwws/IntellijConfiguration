@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.scal</mask>
       <mask>*.sala</mask>
@@ -20,7 +20,6 @@
       <mask>*.s</mask>
       <mask>*.s'q</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*。</mask>
       <mask>*。j</mask>
       <mask>*。ja</mask>
@@ -28,7 +27,6 @@
       <mask>*。java</mask>
       <mask>*/java</mask>
       <mask>*java</mask>
-      <mask>*</mask>
       <mask>*。x</mask>
       <mask>*。x'm</mask>
       <mask>*。x'm'l</mask>
@@ -37,6 +35,8 @@
       <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
