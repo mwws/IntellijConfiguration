@@ -9,6 +9,13 @@
           <option name="pathToConfigFileJava" value="$USER_HOME$/FinCloud.xml" />
           <option name="selectedJavaProfile" value="FinCloud" />
         </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1471510213237" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/Desktop/work/FinCloud.xml" />
+          <option name="selectedJavaProfile" value="FinCloud" />
+        </Settings>
       </list>
     </option>
   </component>
