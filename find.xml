@@ -9,17 +9,11 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.scal</mask>
-      <mask>*.sala</mask>
-      <mask>*.sal</mask>
-      <mask>*.sa</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>*.x</mask>
-      <mask>.</mask>
       <mask>*.xm</mask>
       <mask>*.s</mask>
       <mask>*.s'q</mask>
@@ -34,13 +28,19 @@
       <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.</mask>
+      <mask>*。j</mask>
+      <mask>*.java</mask>
+      <mask>*</mask>
       <mask>*。java</mask>
       <mask>*。jav</mask>
       <mask>*。ja</mask>
-      <mask>*。j</mask>
       <mask>*。</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
+      <mask>.</mask>
+      <mask>.s</mask>
+      <mask>.sc</mask>
+      <mask>.sca</mask>
+      <mask>.scala</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
