@@ -9,6 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
@@ -25,11 +26,7 @@
       <mask>*。xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
-      <mask>*.ja</mask>
-      <mask>*.</mask>
       <mask>*。j</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*。java</mask>
       <mask>*。jav</mask>
       <mask>*。ja</mask>
@@ -40,6 +37,10 @@
       <mask>.sca</mask>
       <mask>.scala</mask>
       <mask>*.scala</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
