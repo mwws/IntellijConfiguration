@@ -11,6 +11,7 @@
       <mapping pattern="Foo" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="CreditScoringMapper" type="PLAIN_TEXT" />
       <mapping pattern="01_insert_company_info_api" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
