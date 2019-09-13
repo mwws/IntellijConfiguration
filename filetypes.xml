@@ -22,6 +22,7 @@
       <mapping pattern="trx1" type="PLAIN_TEXT" />
       <mapping pattern="03_enlarge_block_path_size" type="PLAIN_TEXT" />
       <mapping pattern="07_change_table_index_of_strategy_def.sql" type="PLAIN_TEXT" />
+      <mapping pattern="05_app_name_international" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_geerong" type="PLAIN_TEXT" />
       <mapping pattern="polaris-feedback-event" type="PLAIN_TEXT" />
       <mapping pattern="01_add_execution_result_table" type="PLAIN_TEXT" />
